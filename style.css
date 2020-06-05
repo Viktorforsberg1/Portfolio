@@ -3,6 +3,10 @@ body {
 
 }
 
+img {
+    width: 95%;
+}
+
 h1 {
     font-family: Arial, Helvetica, sans-serif;
 }
